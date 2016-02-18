@@ -1,0 +1,4 @@
+class wuPageLoadTest
+
+
+end
